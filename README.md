@@ -4,7 +4,7 @@
 
 ## Un poco sobre mi
 * :earth_americas: Soy del estado de Michoacán.
-* :computer: Me encanta la tecnología y los gadgets y la programación.
+* :computer: Me encanta la tecnología, los gadgets y la programación.
 * :mortar_board: Egresado del Tecnológico Nacional de México campus Ciudad Hidalgo de la carrera de Ingeniería en Sistemas Computacionales.
 * :wrench: Actualmente tengo laborando 2 años en la empresa Talento Net como Desarrollador Web.
 
