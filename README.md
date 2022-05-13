@@ -1,25 +1,34 @@
-<h1> Hola, me llamo Urivan Rubio 👋 </h1>
+<h1 align="center"> Hola, me llamo Urivan Rubio 👋 </h1>
 
-<h3> Ingeniero en Sistemas :grin: | Desarrollador de Software 💻 | Mexicano 🇲🇽 </h3>
+<h3 align="center"> Ingeniero en Sistemas :mortar_board: | Desarrollador de Software :computer: | Mexicano 🇲🇽 </h3>
 
-## Un poco sobre mi:
-* Soy del estado de Michoacán.
-* Me encanta la tecnología y los gadgets y la programación.
-* Egresado del Tecnológico Nacional de México campus Ciudad Hidalgo de la carrera de Ingeniería en Sistemas Computacionales.
-* Actualmente tengo laborando 2 años en la empresa Talento Net como Desarrollador Web.
-* Me encanta la tecnología, los gadgets y la programación.
+## Un poco sobre mi
+* :earth_americas: Soy del estado de Michoacán.
+* :computer: Me encanta la tecnología y los gadgets y la programación.
+* :mortar_board: Egresado del Tecnológico Nacional de México campus Ciudad Hidalgo de la carrera de Ingeniería en Sistemas Computacionales.
+* :wrench: Actualmente tengo laborando 2 años en la empresa Talento Net como Desarrollador Web.
 
 ## Skills
-
-<a href="#/"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="36" height="36" alt="Python"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width="36" height="36" alt="C#"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="36" height="36" alt="Bootstrap"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="36" height="36" alt="Git"/></a>
+<p align="left">
+<a>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="36" height="36" alt="Python"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/Django.svg" width="36" height="36" alt="Django"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/VueJS-Dark.svg" width="36" height="36" alt="VueJS"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width="36" height="36" alt="C#"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="36" height="36" alt="AndroidStudio"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/MySQL-Dark.svg" width="36" height="36" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="36" height="36" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="36" height="36" alt="Git"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/Github-Dark.svg" width="36" height="36" alt="GitHub"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/GitLab-Dark.svg" width="36" height="36" alt="GitLab"/>
+</a>
+</p>
 
 ## Redes Sociales
 [![Instagram: urivan_rubio](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/urivan_rubio)
