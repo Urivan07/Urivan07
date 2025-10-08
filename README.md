@@ -31,6 +31,5 @@
 </p>
 
 ## Redes Sociales
-[![Instagram: urivan_rubio](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/urivan_rubio)
 [![Linkedin: UrivanRubio](https://img.shields.io/badge/-UrivanRubio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urivan-rubio/)](https://www.linkedin.com/in/urivan-rubio/)
 [![GitHub UrivanRubio](https://img.shields.io/github/followers/Urivan07?label=follow&style=social)](https://github.com/Urivan07)
